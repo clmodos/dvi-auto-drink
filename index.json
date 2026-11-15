@@ -1,0 +1,14 @@
+{
+  "base": "https://raw.githubusercontent.com/clmodos/dvi-auto-drink/main",
+  "generatedAt": "2026-11-15T09:18:16.181Z",
+  "scripts": [
+    {
+      "slug": "dvi-auto-drink",
+      "name": "[DVI]自动喝药",
+      "version": "0.2.1",
+      "description": "药水剩余时间低于阈值时自动补：背包有就地喝，只有仓库就走到仓库喝，仓库也没有就自动去市场买指定品质瓶数再喝。",
+      "downloadURL": "https://raw.githubusercontent.com/clmodos/dvi-auto-drink/main/dvi-auto-drink.user.js",
+      "updateURL": "https://raw.githubusercontent.com/clmodos/dvi-auto-drink/main/dvi-auto-drink.meta.js"
+    }
+  ]
+}
